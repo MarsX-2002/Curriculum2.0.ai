@@ -39,7 +39,8 @@ This project is open for contributions. If you find any bugs or have any suggest
 License
 This project is licensed under the MIT License. See the <u>LICENSE</u> file for details.
   
-
+# Credits to
+`https://medium.com/@angelamarieteng`
 
 
 
