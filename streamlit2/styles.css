@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
